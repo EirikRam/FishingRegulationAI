@@ -3,6 +3,9 @@
 ## Overview
 The **Fishing Regulation Assistant** is a Python-based desktop application that helps users identify fish species using a custom-trained machine learning model and provides the corresponding fishing regulations. It integrates Azure Custom Vision for image classification and uses a graphical user interface built with Tkinter.
 
+## Model Development
+The fish image dataset was custom-built using a Python web crawler developed by the author. Images were collected from various online sources, then manually cleaned and labeled using Azure Custom Vision. The process of training and deploying the model on Azure taught the author how to effectively manage classification projects in Azure's computer vision ecosystem, including labeling strategies, iteration management, and deployment endpoints.
+
 ![Welcome.jpg](assets/Welcome.jpg)
 
 ## Features
