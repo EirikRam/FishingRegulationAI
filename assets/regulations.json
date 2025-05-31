@@ -1,0 +1,137 @@
+{
+  "Red Snapper": {
+    "Minimum Size Limits": {
+      "Atlantic": "20 inches",
+      "Gulf": "16 inches"
+    },
+    "Season": {
+      "Atlantic": "Open year-round",
+      "Gulf": "Visit MyFWC.com for 2024 season updates"
+    },
+    "Daily Recreational Bag Limit": {
+      "Atlantic and Gulf": "2 per harvester",
+      "Gulf": "Zero daily bag limit for captain and crew on for-hire vessels"
+    }
+  },
+  "Triggerfish (Gray)": {
+    "Minimum Size Limits": {
+      "Atlantic": "12 inches fork length",
+      "Gulf": "15 inches fork length"
+    },
+    "Season": {
+      "Atlantic": "Open year-round",
+      "Gulf": "Open March 1 - May 31, Aug. 1 - Dec. 31"
+    },
+    "Daily Recreational Bag Limit": {
+      "Atlantic": "1 per harvester",
+      "Gulf": "1 per harvester"
+    }
+  },
+  "Permit": {
+    "Size Limits": {
+      "Special Permit Zone (SPZ)": "Not less than 18 inches or more than 22 inches fork length all other areas",
+      "Other Areas": "22 inches fork length"
+    },
+    "Closed Season": {
+      "SPZ Only": "April 1 - July 31"
+    },
+    "Daily Recreational Bag Limit": {
+      "SPZ": "1 per harvester not to exceed 2 per vessel",
+      "Other Areas": "2 per harvester not to exceed 2 per vessel"
+    },
+    "Remarks": [
+      "May possess 1 over 22 inches fork length outside the SPZ not to exceed 2 over 22 inches per vessel per day. For map of SPZ, please see MyFWC.com.",
+      "Zero daily bag and possession limit for captain and crew on for-hire vessels."
+    ]
+  },
+  "Gag Grouper": {
+    "Minimum Size Limits": {
+      "Atlantic": "24 inches",
+      "Gulf": "24 inches"
+    },
+    "Season": {
+      "Atlantic": "Closed Oct. 23 - May 1",
+      "Gulf": "Open Sept. 1 - Nov. 10"
+    },
+    "Daily Recreational Bag Limit": {
+      "Atlantic": "1 per harvester. Only 1 fish can be gag or black.",
+      "Gulf": "2 per harvester"
+    }
+  },
+  "Barracuda": {
+    "Regulations apply in": "Collier, Monroe, Miami-Dade, Broward, Palm Beach, and Martin counties.",
+    "Minimum Size Limits": "Less than 15 inches or more than 36 inches fork length",
+    "Daily Recreational Bag Limit": "2 per person or 6 per vessel per day",
+    "Remarks": "Unregulated in all other areas; see MyFWC.com"
+  },
+  "Hogfish": {
+    "Minimum Size Limits": {
+      "Atlantic": "16 inches fork length",
+      "Gulf": "14 inches fork length"
+    },
+    "Season": {
+      "Atlantic": "Open May 1 - Oct. 31",
+      "Gulf": "Open year-round"
+    },
+    "Daily Recreational Bag Limit": {
+      "Atlantic": "1 per harvester",
+      "Gulf": "5 per harvester"
+    }
+  },
+  "Mahi Mahi": {
+    "Minimum Size Limits": {
+      "Atlantic": "20 inches fork length",
+      "Gulf": "None"
+    },
+    "Daily Recreational Bag Limit": {
+      "Atlantic": "5 per harvester, not to exceed 30 per vessel",
+      "Gulf": "10 per harvester, not to exceed 60 per vessel",
+      "Gulf (for-hire vessels)": "Zero daily bag and possession limit for captain and crew on for-hire vessels"
+    }
+  },
+  "Lobster": {
+    "Minimum Size Limit": "Carapace must be greater than 3 inches measured in the water",
+    "Seasons": {
+      "Sport Season": "July 24-25, 2024",
+      "Regular Season": "August 6 through March 31"
+    },
+    "Daily Recreational Bag Limit": {
+      "Sport Season": "6 per harvester in Monroe County and Biscayne National Park, 12 per harvester in all other harvest areas",
+      "Regular Season": "6 per harvester in all areas"
+    },
+    "Remarks": [
+      "Recreational trapping prohibited.",
+      "Spiny lobster permit required when license required.",
+      "Harvest of egg-bearing females prohibited."
+    ]
+  },
+  "BillFish": {
+    "Minimum Size Limits": {
+      "Sailfish": "63 inches",
+      "Blue Marlin": "99 inches",
+      "White Marlin": "66 inches",
+      "Roundscale Spearfish": "66 inches"
+    },
+    "Daily Recreational Bag Limit": "1 per harvester aggregate bag limit",
+    "Remarks": [
+      "Measured tip of lower jaw to fork.",
+      "All landed fish must be reported to NOAA within 24 hours (800-894-5528 or hmspermits.noaa.gov).",
+      "HMS permit required in federal waters."
+    ]
+  },
+  "Tuna": {
+    "Minimum Size Limits": "None",
+    "Daily Recreational Bag Limit": "2 fish per person or 10 fish per vessel per day, whichever is greater"
+  },
+  "Lionfish": {
+    "Species": ["Red Lionfish (Pterois volitans)", "Devil Firefish (Pterois miles)"],
+    "Minimum Size Limit": "None",
+    "Daily Bag Limit": "Unlimited",
+    "Harvest Season": "Open year-round",
+    "Remarks": [
+      "Lionfish are an invasive species with a potential negative impact on native wildlife and habitat.",
+      "FWC encourages removal in Florida waters to limit negative impacts to native marine life and ecosystems.",
+      "Regulations apply in Gulf and Atlantic state and federal waters."
+    ]
+  }
+}
